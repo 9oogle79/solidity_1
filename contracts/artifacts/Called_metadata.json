@@ -1,0 +1,66 @@
+{
+	"compiler": {
+		"version": "0.8.18+commit.87f61d96"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [],
+				"name": "changeNumber",
+				"outputs": [],
+				"stateMutability": "nonpayable",
+				"type": "function"
+			},
+			{
+				"inputs": [],
+				"name": "getNumber",
+				"outputs": [
+					{
+						"internalType": "uint256",
+						"name": "",
+						"type": "uint256"
+					}
+				],
+				"stateMutability": "view",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"contracts/capsul.sol": "Called"
+		},
+		"evmVersion": "paris",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"contracts/capsul.sol": {
+			"keccak256": "0x636bea2e571242b0ec6af583aae18fbc34f75178a3c90216faa61218c0c998f0",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://33733f3c47a772689c3b6391c58be541f7bfb7caef4062fd13507af2627fd1aa",
+				"dweb:/ipfs/QmNWnwCZjEEehufwDXtgNw3GunYtT2Z7Bx2UdNi527p55P"
+			]
+		}
+	},
+	"version": 1
+}

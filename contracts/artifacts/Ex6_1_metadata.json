@@ -1,0 +1,66 @@
+{
+	"compiler": {
+		"version": "0.8.18+commit.87f61d96"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [],
+				"name": "a",
+				"outputs": [
+					{
+						"internalType": "uint256",
+						"name": "",
+						"type": "uint256"
+					}
+				],
+				"stateMutability": "view",
+				"type": "function"
+			},
+			{
+				"inputs": [],
+				"name": "myBlock",
+				"outputs": [],
+				"stateMutability": "nonpayable",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"contracts/ex_6_1.sol": "Ex6_1"
+		},
+		"evmVersion": "paris",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"contracts/ex_6_1.sol": {
+			"keccak256": "0xeaa8a94508afb2d4333c0ce595d9148cd1732caffa96538ab9074bdfe4f3c6fb",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://2748ac90bc949ef4ce18469d07af2ec0d9eedf35c5db40bc91dba3b34b43ccb1",
+				"dweb:/ipfs/QmVKnrZP14yBb8uKbhQYbHAVpRfr356qXJxjWdjBVmqeha"
+			]
+		}
+	},
+	"version": 1
+}

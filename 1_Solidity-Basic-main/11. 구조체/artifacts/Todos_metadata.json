@@ -1,0 +1,78 @@
+{
+	"compiler": {
+		"version": "0.8.18+commit.87f61d96"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [
+					{
+						"internalType": "uint256",
+						"name": "",
+						"type": "uint256"
+					}
+				],
+				"name": "todos",
+				"outputs": [
+					{
+						"internalType": "string",
+						"name": "text",
+						"type": "string"
+					},
+					{
+						"internalType": "bool",
+						"name": "completed",
+						"type": "bool"
+					}
+				],
+				"stateMutability": "view",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"1_Solidity-Basic-main/11. 구조체/1.2.sol": "Todos"
+		},
+		"evmVersion": "paris",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"1_Solidity-Basic-main/11. 구조체/1.1.sol": {
+			"keccak256": "0x1205ce8b030ba5332262ca6e717d6f7ce9cc1c51cc0522ac99ec55e4f54c4fae",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://c95753ed168e3637459d32e1d7c0a620fe74e96a6107fcd702e005f33ec8fa63",
+				"dweb:/ipfs/QmY5bTLJEdw7BTtW3P1u8fHbk1mo9x1QvaksNR5N22gowT"
+			]
+		},
+		"1_Solidity-Basic-main/11. 구조체/1.2.sol": {
+			"keccak256": "0xc838d752b31d68d74c8a38b2db3fc226c8ef2088b125d9db2d212a2a64e0406f",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://1dfddc541fda30eb4c1b6ebfaa85db40ab9ced3ceab9222215a029469ed6cb3d",
+				"dweb:/ipfs/QmNgERVPgETHDoAigJyJhiGFkGsGV4jhUc2AyPjkWGs8ug"
+			]
+		}
+	},
+	"version": 1
+}
